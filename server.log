@@ -1,0 +1,68 @@
+2012-08-22 19:29:48 [INFO] Starting minecraft server version 1.2.5
+2012-08-22 19:29:48 [INFO] Attempting early MinecraftForge initialization
+2012-08-22 19:29:48 [INFO] Completed early MinecraftForge initialization
+2012-08-22 19:29:49 [INFO] Forge Mod Loader version null.null.null.null for Minecraft null loading
+2012-08-22 19:29:49 [FINE] No mod directory found, creating one: C:\Users\kotetsu\technocraft\mods
+2012-08-22 19:29:49 [FINE] No config directory found, creating one: C:\Users\kotetsu\technocraft\config
+2012-08-22 19:29:49 [FINE] Attempting to load mods contained in the minecraft jar file and associated classes
+2012-08-22 19:29:49 [FINE] Minecraft is a file at C:\Users\kotetsu\technocraft\craftbukkit.jar, loading
+2012-08-22 19:29:49 [FINE] Found a mod class net.minecraft.server.mod_MinecraftForge in file craftbukkit.jar, attempting to load it
+2012-08-22 19:29:49 [FINE] ModLoader BaseMod class net.minecraft.server.mod_MinecraftForge found, loading
+2012-08-22 19:29:49 [FINE] ModLoader BaseMod class net.minecraft.server.mod_MinecraftForge loaded
+2012-08-22 19:29:49 [FINE] Mod class net.minecraft.server.mod_MinecraftForge loaded successfully
+2012-08-22 19:29:49 [FINE] Minecraft jar mods loaded successfully
+2012-08-22 19:29:49 [INFO] Loading mods from C:\Users\kotetsu\technocraft\mods
+2012-08-22 19:29:49 [INFO] Forge Mod Loader has loaded 1 mods
+2012-08-22 19:29:49 [FINE] Beginning mod pre-initialization
+2012-08-22 19:29:49 [FINER] Pre-initializing C:\Users\kotetsu\technocraft\craftbukkit.jar
+2012-08-22 19:29:49 [FINEST] Configuration for mod_MinecraftForge.SPAWNER_ALLOW_ON_INVERTED found values default: true, configured: true, interpreted: true
+2012-08-22 19:29:49 [FINE] Configuration for mod_MinecraftForge written to mod_MinecraftForge.cfg
+2012-08-22 19:29:49 [FINE] Mod pre-initialization complete
+2012-08-22 19:29:49 [FINE] Verifying mod dependencies are satisfied
+2012-08-22 19:29:49 [FINE] All dependencies are satisfied
+2012-08-22 19:29:49 [FINE] Sorting mods into an ordered list
+2012-08-22 19:29:49 [FINE] Sorted mod list:
+2012-08-22 19:29:49 [FINE] 	mod_MinecraftForge: craftbukkit.jar ()
+2012-08-22 19:29:49 [INFO] Loading properties
+2012-08-22 19:29:49 [WARNING] server.properties does not exist
+2012-08-22 19:29:49 [INFO] Generating new properties file
+2012-08-22 19:29:49 [INFO] Starting Minecraft server on *:25565
+2012-08-22 19:29:49 [FINE] Beginning mod initialization
+2012-08-22 19:29:49 [FINER] Initializing mod_MinecraftForge
+2012-08-22 19:29:49 [INFO] MinecraftForge v3.2.4.105 Initialized
+
+2012-08-22 19:29:49 [INFO] MinecraftForge v3.2.4.105 Initialized
+
+2012-08-22 19:29:49 [FINE] Mod initialization complete
+2012-08-22 19:29:49 [FINE] Beginning mod post-initialization
+2012-08-22 19:29:49 [FINER] Post-initializing mod_MinecraftForge
+2012-08-22 19:29:49 [FINE] Mod post-initialization complete
+2012-08-22 19:29:49 [INFO] Forge Mod Loader load complete, 1 mods loaded
+2012-08-22 19:29:49 [INFO] This server is running CraftBukkit version git-Bukkit-jenkins-MultiModWorld-CraftBukkit-60 (MC: 1.2.5) (Implementing API version 1.2.5-R4.0-MCPC-SNAPSHOT)
+2012-08-22 19:29:49 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (Не удается найти указанный файл)
+2012-08-22 19:29:49 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (Не удается найти указанный файл)
+2012-08-22 19:29:49 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ops.txt (Не удается найти указанный файл)
+2012-08-22 19:29:49 [WARNING] Failed to load white-list: java.io.FileNotFoundException: white-list.txt (Не удается найти указанный файл)
+2012-08-22 19:29:49 [INFO] Preparing level "world"
+2012-08-22 19:29:49 [INFO] Default game type: 0
+2012-08-22 19:29:49 [INFO] Preparing start region for level 0 (Seed: -9053480584089902606)
+2012-08-22 19:29:49 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: FileNotFoundException
+2012-08-22 19:29:49 [SEVERE] [MultiModWorld] No ModWorldHandlePlugin registered.
+2012-08-22 19:29:50 [INFO] Preparing spawn area: 16%
+2012-08-22 19:29:51 [INFO] Preparing spawn area: 36%
+2012-08-22 19:29:52 [INFO] Preparing spawn area: 57%
+2012-08-22 19:29:53 [INFO] Preparing spawn area: 81%
+2012-08-22 19:29:54 [INFO] Preparing start region for level 1 (Seed: -9053480584089902606)
+2012-08-22 19:29:54 [INFO] Preparing spawn area: 12%
+2012-08-22 19:29:55 [INFO] Preparing start region for level 2 (Seed: -9053480584089902606)
+2012-08-22 19:29:55 [INFO] Preparing spawn area: 0%
+2012-08-22 19:29:56 [INFO] Preparing spawn area: 20%
+2012-08-22 19:29:57 [INFO] Preparing spawn area: 48%
+2012-08-22 19:29:58 [INFO] Preparing spawn area: 73%
+2012-08-22 19:29:59 [INFO] Preparing spawn area: 93%
+2012-08-22 19:29:59 [INFO] Done (10,494s)! For help, type "help" or "?"
+2012-08-22 19:30:04 [INFO] CONSOLE: Stopping the server..[m
+2012-08-22 19:30:04 [INFO] Stopping server
+2012-08-22 19:30:04 [INFO] Saving chunks
+2012-08-22 19:30:06 [INFO] Stopping server
+2012-08-22 19:30:06 [INFO] Saving chunks
